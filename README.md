@@ -7,10 +7,10 @@
 </p>
 
 <div align="center">
-  <img height="180em" 
+  <img width="430"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavoluc11&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em"
+  <img width="325"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavoluc11&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,batchfile,shell,hack,go,perl,emacs%20lisp"/>
 </div>
 
