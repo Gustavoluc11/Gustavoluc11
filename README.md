@@ -40,8 +40,6 @@ Interface visual inspirada em sistemas de cibersegurança.
 
 ---
 
-<div align="center">
-  
-![Snake animation](https://github.com/Gustavoluc11/Gustavoluc11/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Artificial+Intelligence+Enthusiast;Software+Developer;Always+learning+new+things">
+</p>
