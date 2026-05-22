@@ -18,12 +18,18 @@
 <div align="center">
   <img alt="Python" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
+  &nbsp;&nbsp;&nbsp;
 
   <img alt="Java" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
+  &nbsp;&nbsp;&nbsp;
+
   <img alt="Git" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  &nbsp;&nbsp;&nbsp;
 
   <img alt="Github" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
