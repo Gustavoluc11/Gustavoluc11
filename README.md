@@ -6,7 +6,6 @@
   🚀 Criando projetos, aprendendo e evoluindo todos os dias 🚀
 </p>
 
-<div align="center">
   <img width="430"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavoluc11&show_icons=true&theme=tokyonight"/>
 
