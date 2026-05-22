@@ -1,14 +1,14 @@
-<h1 align="center">Hey 👋, eu sou Gustavo Gomes</h1>
+<h1 align="center">Olá, eu sou Gustavo Gomes</h1>
 
 <p align="center">
-  💻 Estudante de Ciencias da Computação na PUCPR 💻<br>
-  🤖 Apaixonado por Inteligência Artificial 🤖<br>
-  🚀 Criando projetos e evoluindo todos os dias
+  💻 Estudante de Ciência da Computação na PUCPR 💻<br>
+  ⚡ Inteligência Artificial e Desenvolvimento de Software ⚡<br>
+  🚀 Criando projetos, aprendendo e evoluindo todos os dias 🚀
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljobe&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljobe&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
