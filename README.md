@@ -7,28 +7,27 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljobe&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljobe&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eljobe&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eljobe&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 🚀 Tecnologias
+<div align="center">
+  <img alt="Python" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="Java" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-  <img align="center" alt="Java" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="Git" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <img align="center" alt="Git" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  <img align="center" alt="Github" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="Github" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
-
 ---
 
 ## 📌 Projetos
