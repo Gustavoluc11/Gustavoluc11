@@ -8,9 +8,13 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eljobe&show_icons=true&theme=tokyonight"/>
+  <div align="center">
+  <img height="165em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=eljobe&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em" 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eljobe&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,batchfile,shell,hack"/>
+  <img height="165em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eljobe&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,batchfile,shell,hack,go"/>
+</div>
 
 ---
 
