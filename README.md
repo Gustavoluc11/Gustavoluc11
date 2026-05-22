@@ -34,9 +34,11 @@
   <img alt="Github" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
----
 
 ## 📌 Projetos
+
+🦖 Google Dino I.A.  
+Projeto utilizando redes neurais para aprender a jogar o Dino do Google automaticamente.
 
 🎮 Jogos em Python  
 Projetos como Jokenpô, Jogo da Velha, Batalha naval e sistemas interativos.
