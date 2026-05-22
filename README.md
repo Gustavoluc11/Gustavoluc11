@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Python, algorithms and artificial intelligence<br>🎯 Goals: Become a Software Engineer and work with Artificial Intelligence<br>🎲 Fun fact: I play volleyball and I’m always trying to improve my skills and mindset</p>
 
 ###
 
