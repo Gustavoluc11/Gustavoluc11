@@ -1,54 +1,97 @@
-<h1 align="center">Olá, eu sou Gustavo Gomes</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="center">
-  💻 Estudante de Ciência da Computação na PUCPR 💻<br>
-  ⚡ Inteligência Artificial e Desenvolvimento de Software ⚡<br>
-  🚀 Criando projetos, aprendendo e evoluindo todos os dias 🚀
-</p>
-<div align="center">
-  <img width="420" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavoluc11&show_icons=true&theme=tokyonight"/>
+###
 
-  <img width="350" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavoluc11&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,batchfile,shell,hack,go,perl,emacs%20lisp"/>
+<p align="left">My name is Gustavo and I'm a student, from Curitiba Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
 </div>
 
----
+###
 
-## 🚀 Tecnologias
-<div align="center">
-  <img alt="Python" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  
-  &nbsp;&nbsp;&nbsp;
-
-  <img alt="Java" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img alt="Git" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img alt="Github" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Gustavoluc11/Gustavoluc11/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
 
-## 📌 Projetos
+###
 
-🦖 Google Dino I.A.  
-Projeto utilizando redes neurais para aprender a jogar o Dino do Google automaticamente.
+<h2 align="left">I code with</h2>
 
-🎮 Jogos em Python  
-Projetos como Jokenpô, Jogo da Velha, Batalha naval e sistemas interativos.
+###
 
-🛡️ Cyber Security Screen  
-Interface visual inspirada em sistemas de cibersegurança.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Computer+Science+Student;Artificial+Intelligence+Enthusiast;Software+Developer;Always+learning+new+things">
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Gustavoluc11/Gustavoluc11/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Gustavoluc11?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavoluc11/Gustavoluc11/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavoluc11/Gustavoluc11/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gustavoluc11/Gustavoluc11/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Gustavoluc11/Gustavoluc11/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
