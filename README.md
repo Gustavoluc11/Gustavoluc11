@@ -6,13 +6,13 @@
   🚀 Criando projetos, aprendendo e evoluindo todos os dias 🚀
 </p>
 
-<div align="center">
-  <img width="49%" 
+<p align="center">
+  <img width="400" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavoluc11&show_icons=true&theme=tokyonight"/>
 
-  <img width="37%" 
+  <img width="335" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavoluc11&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,batchfile,shell,hack,go,perl,emacs%20lisp"/>
-</div>
+</p>
 
 ---
 
