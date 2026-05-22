@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, eu sou Gustavo Gomes</h1>
 
 <p align="center">
-  💻 Estudante de Tecnologia <br>
-  🤖 Apaixonado por Inteligência Artificial <br>
-  🏐 Levantador de vôlei <br>
+  💻 Estudante de Ciencias da Computação na PUCPR 💻<br>
+  🤖 Apaixonado por Inteligência Artificial 🤖<br>
   🚀 Criando projetos e evoluindo todos os dias
 </p>
 
@@ -34,11 +33,8 @@
 
 ## 📌 Projetos
 
-🦖 Google Dino I.A.  
-Projeto utilizando redes neurais para aprender a jogar o Dino do Google automaticamente.
-
 🎮 Jogos em Python  
-Projetos como Jokenpô, Jogo da Velha e sistemas interativos.
+Projetos como Jokenpô, Jogo da Velha, Batalha naval e sistemas interativos.
 
 🛡️ Cyber Security Screen  
 Interface visual inspirada em sistemas de cibersegurança.
