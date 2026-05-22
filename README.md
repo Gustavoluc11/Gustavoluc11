@@ -5,13 +5,15 @@
   ⚡ Inteligência Artificial e Desenvolvimento de Software ⚡<br>
   🚀 Criando projetos, aprendendo e evoluindo todos os dias 🚀
 </p>
+
 <div align="center">
   <img height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavoluc11&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em" 
+  <img height="180em" width="320em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavoluc11&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,batchfile,shell,hack,go,perl,emacs%20lisp"/>
 </div>
+
 ---
 
 ## 🚀 Tecnologias
