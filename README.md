@@ -7,9 +7,8 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eljobe&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eljobe&layout=compact&theme=tokyonight"/> </div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eljobe&theme=tokyonight"/>
+</div>
 
 ---
 
